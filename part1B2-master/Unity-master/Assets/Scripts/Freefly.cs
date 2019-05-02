@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class CurveAnimator : MonoBehaviour
+public class Freefly : MonoBehaviour
 {
 
     Transform t;
